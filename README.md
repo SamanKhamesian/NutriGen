@@ -62,7 +62,7 @@ Another valuable analysis that provides insight into how well LLMs incorporate u
 
 If you use this work in your research, please cite:
 
-```
+```bibtex
 @misc{khamesian2025nutrigen,
     title={NutriGen: Personalized Meal Plan Generator Leveraging Large Language Models to Enhance Dietary and Nutritional Adherence},
     author={Saman Khamesian and Asiful Arefeen and Stephanie M. Carpenter and Hassan Ghasemzadeh},
