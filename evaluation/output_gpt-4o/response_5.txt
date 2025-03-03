@@ -1,0 +1,150 @@
+To create meal plans that adhere to the specified nutritional targets and incorporate the available food items, we'll craft three diverse options. Each option will include breakfast, lunch, dinner, and snacks while meeting the daily targets of 3054.5 kcal, 97.25g of protein, and 121.99g of sugar. 
+
+### Meal Plan Option 1:
+
+**Breakfast:**
+- French Toast Crunch Cereal with Milk
+  - 1 bowl (approx. 70g cereal) with 250ml whole milk
+  - **Calories:** 400 kcal
+  - **Protein:** 13g
+  - **Sugar:** 24g
+
+  **Recipe:** Pour cereal into a bowl, add milk, and serve.
+
+**Lunch:**
+- Chicken Biryani
+  - 1 serving (250g)
+  - **Calories:** 600 kcal
+  - **Protein:** 25g
+  - **Sugar:** 6g
+
+  **Recipe:** Heat pre-cooked chicken biryani in a microwave for 2-3 minutes.
+
+**Dinner:**
+- Angus Beef Burger with Avocado
+  - 1 beef patty (150g), 1 burger bun, slices of 1 avocado
+  - **Calories:** 850 kcal
+  - **Protein:** 40g
+  - **Sugar:** 5g
+
+  **Recipe:** Grill the beef patty for about 5 minutes per side. Slice the avocado, then assemble the burger with the bun and avocado.
+
+**Snacks:**
+- Cheddar Chex Mix
+  - 1 pack (60g)
+  - **Calories:** 240 kcal
+  - **Protein:** 6g
+  - **Sugar:** 4g
+
+- Chocolate Chip Cliff Bar
+  - 1 bar (68g)
+  - **Calories:** 260 kcal
+  - **Protein:** 10g
+  - **Sugar:** 22g
+
+- Nectarine
+  - 1 medium nectarine
+  - **Calories:** 60 kcal
+  - **Protein:** 1g
+  - **Sugar:** 12g
+
+**Total Daily Intake:**
+- **Calories:** 2410 kcal
+- **Protein:** 95g
+- **Sugar:** 73g
+
+### Meal Plan Option 2:
+
+**Breakfast:**
+- Eggs Benedict
+  - 1 serving
+  - **Calories:** 500 kcal
+  - **Protein:** 25g
+  - **Sugar:** 2g
+
+  **Recipe:** Poach eggs, toast an English muffin, and top with Canadian bacon and hollandaise sauce.
+
+**Lunch:**
+- Glazed Donut and Cranberry Juice
+  - 1 donut, 1 cup (240ml) cranberry juice
+  - **Calories:** 500 kcal
+  - **Protein:** 4g
+  - **Sugar:** 60g
+
+  **Recipe:** Serve the donut with a glass of chilled cranberry juice.
+
+**Dinner:**
+- Beef Burger with Tater Tots
+  - 1 beef patty (150g), 1 burger bun, 200g tater tots
+  - **Calories:** 1050 kcal
+  - **Protein:** 35g
+  - **Sugar:** 5g
+
+  **Recipe:** Grill the patty, bake tater tots at 400°F for 20 minutes, assemble burger.
+
+**Snacks:**
+- Jack in the Box Oreo Milkshake
+  - 1 small (half serving)
+  - **Calories:** 400 kcal
+  - **Protein:** 8g
+  - **Sugar:** 35g
+
+- Vegetable Cream Cheese with Crackers
+  - 2 tbsp cream cheese, 5 whole wheat crackers
+  - **Calories:** 260 kcal
+  - **Protein:** 6g
+  - **Sugar:** 5g
+
+**Total Daily Intake:**
+- **Calories:** 2710 kcal
+- **Protein:** 78g
+- **Sugar:** 107g
+
+### Meal Plan Option 3:
+
+**Breakfast:**
+- Avocado Toast
+  - 1 slice whole-grain bread, ½ avocado, 1 poached egg
+  - **Calories:** 350 kcal
+  - **Protein:** 10g
+  - **Sugar:** 2g
+
+  **Recipe:** Toast bread, mash avocado, top with poached egg.
+
+**Lunch:**
+- Cheddar Chex Mix and Nectarine
+  - 1 pack (60g) Chex Mix, 1 nectarine
+  - **Calories:** 300 kcal
+  - **Protein:** 7g
+  - **Sugar:** 20g
+
+  **Recipe:** Serve Chex Mix with washed and sliced nectarine.
+
+**Dinner:**
+- Chicken Biryani with Tater Tots
+  - 1 serving biryani, 200g tater tots
+  - **Calories:** 800 kcal
+  - **Protein:** 30g
+  - **Sugar:** 10g
+
+  **Recipe:** Heat biryani, bake tater tots.
+
+**Snacks:**
+- Chocolate Chip Cliff Bar
+  - 1 bar
+  - **Calories:** 260 kcal
+  - **Protein:** 10g
+  - **Sugar:** 22g
+
+- Oreo Milkshake
+  - 1 small (half serving)
+  - **Calories:** 400 kcal
+  - **Protein:** 8g
+  - **Sugar:** 35g
+
+**Total Daily Intake:**
+- **Calories:** 2110 kcal
+- **Protein:** 65g
+- **Sugar:** 89g
+
+These plans provide variety and aim to be balanced while considering the available items. Adjustments can be made to better meet the exact nutritional

@@ -1,0 +1,12 @@
+Food_Maple_Crème_Bruele = 0.5
+Food_Starbuck_strawberry_acai_refresher = 2.0
+Food_Tofu_Pad_Thai = 0.5
+Food_baked_beans = 0.5
+Food_beef_angus_burger_patty = 1.0
+Food_coleslaw = 2.0
+Food_corn_salsa = 2.0
+Food_everything_bagel = 1.0
+--------------------------
+energy = 1667.16
+protein = 51.45
+sugar = 54.41

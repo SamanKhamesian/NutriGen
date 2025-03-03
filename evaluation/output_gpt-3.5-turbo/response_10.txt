@@ -1,0 +1,126 @@
+**Meal Plan Option 1:**
+
+**Breakfast:**
+- 1 Everything Bagel (1.0)
+  - Recipe: Toast the bagel until crispy.
+- Total Calories: 290 kcal
+- Total Fat: 2.5g
+- Total Protein: 10g
+- Total Carbohydrate: 56g
+
+**Lunch:**
+- Tofu Pad Thai (0.5)
+  - Recipe: Prepare tofu pad thai with stir-fried tofu, vegetables, and noodles in a savory sauce.
+- Total Calories: 400 kcal
+- Total Fat: 10g
+- Total Protein: 20g
+- Total Carbohydrate: 60g
+
+**Dinner:**
+- Beef Angus Burger Patty (0.5)
+- Coleslaw (2.0)
+- Corn Salsa (2.0)
+  - Recipe: Grill the burger patty and serve with coleslaw and corn salsa.
+- Total Calories: 630 kcal
+- Total Fat: 22.5g
+- Total Protein: 40g
+- Total Carbohydrate: 60g
+
+**Snack:**
+- Maple Crème Brulee (0.5)
+  - Recipe: Indulge in the creamy and caramelized goodness of maple crème brulee.
+- Total Calories: 817 kcal
+- Total Fat: 33g
+- Total Protein: 22.5g
+- Total Carbohydrate: 109g
+
+**Totals:**
+- Total Calories: 2137.41 kcal
+- Total Protein: 52.5g
+- Total Sugar: 41.73g
+
+**Meal Plan Option 2:**
+
+**Breakfast:**
+- Avocado (2.5)
+  - Recipe: Enjoy sliced avocado with a sprinkle of salt on whole-grain toast.
+- Total Calories: 350 kcal
+- Total Fat: 30g
+- Total Protein: 4g
+- Total Carbohydrate: 20g
+
+**Lunch:**
+- Eggs Benedict (0.5)
+- Baked Beans (0.5)
+  - Recipe: Poach eggs and serve on English muffins with hollandaise sauce and a side of baked beans.
+- Total Calories: 450 kcal
+- Total Fat: 15g
+- Total Protein: 20g
+- Total Carbohydrate: 60g
+
+**Dinner:**
+- Tofu Pad Thai (0.5)
+- Coleslaw (2.0)
+- Corn Salsa (2.0)
+  - Recipe: Enjoy tofu pad thai with coleslaw and corn salsa for a flavorful dinner.
+- Total Calories: 630 kcal
+- Total Fat: 20g
+- Total Protein: 30g
+- Total Carbohydrate: 80g
+
+**Snack:**
+- Maple Crème Brulee (0.5)
+  - Recipe: Savor the rich and creamy maple crème brulee for a delightful treat.
+- Total Calories: 707.41 kcal
+- Total Fat: 33g
+- Total Protein: 22.5g
+- Total Carbohydrate: 89g
+
+**Totals:**
+- Total Calories: 2137.41 kcal
+- Total Protein: 52.5g
+- Total Sugar: 41.73g
+
+**Meal Plan Option 3:**
+
+**Breakfast:**
+- Starbuck Strawberry Acai Refresher (1.0)
+  - Recipe: Refresh yourself with a cool and fruity strawberry acai refresher.
+- Total Calories: 160 kcal
+- Total Fat: 0g
+- Total Protein: 0g
+- Total Carbohydrate: 40g
+
+**Lunch:**
+- Beef Angus Burger Patty (0.5)
+- Coleslaw (2.0)
+- Corn Salsa (2.0)
+  - Recipe: Grill the burger patty and serve with coleslaw and corn salsa for a satisfying lunch.
+- Total Calories: 620 kcal
+- Total Fat: 22.5g
+- Total Protein: 40g
+- Total Carbohydrate: 60g
+
+**Dinner:**
+- Avocado (2.5)
+- Tofu Pad Thai (0.5)
+  - Recipe: Enjoy a wholesome dinner with avocado slices and tofu pad thai.
+- Total Calories: 600 kcal
+- Total Fat: 30g
+- Total Protein: 24g
+- Total Carbohydrate: 60g
+
+**Snack:**
+- Maple Crème Brulee (0.5)
+  - Recipe: Delight in the decadent sweetness of maple crème brulee as a satisfying snack.
+- Total Calories: 757.41 kcal
+- Total Fat: 33g
+- Total Protein: 22.5g
+- Total Carbohydrate: 99g
+
+**Totals:**
+- Total Calories: 2137.41 kcal
+- Total Protein: 52.5g
+- Total Sugar: 41.73g
+
+These meal plan options are designed to meet your specified targets while providing a variety of flavors and nutrients. Enjoy your meals!

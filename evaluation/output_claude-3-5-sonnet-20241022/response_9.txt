@@ -1,0 +1,75 @@
+I'll create three meal plans using the available items while meeting your specified targets. I'll adjust portions to match the caloric and nutritional goals.
+
+MEAL PLAN 1:
+
+Breakfast (421 kcal):
+- 1 everything bagel
+- 1 serving Starbucks strawberry açai refresher (16 fl oz)
+Recipe: Toast bagel until golden brown. Serve with refresher over ice.
+
+Lunch (625 kcal):
+- 1 beef Angus burger patty
+- 1 cup corn salsa
+- 1/2 cup coleslaw
+Recipe: Grill burger patty for 4-5 minutes per side. Serve with corn salsa and coleslaw on the side.
+
+Dinner (621 kcal):
+- 1 serving Tofu Pad Thai (regular portion)
+- 1/2 serving Maple Crème Brûlée
+Recipe: Heat Pad Thai according to instructions. Serve with crème brûlée for dessert.
+
+Total Nutrition:
+Calories: 1667 kcal
+Protein: 52g
+Carbohydrates: 185g
+Fat: 74g
+
+MEAL PLAN 2:
+
+Breakfast (380 kcal):
+- 1 everything bagel
+- 1/2 cup baked beans
+Recipe: Toast bagel, heat baked beans in microwave or stovetop.
+
+Lunch (662 kcal):
+- 1 beef Angus burger patty
+- 1 cup corn salsa
+- 1 cup coleslaw
+Recipe: Grill burger patty, serve with fresh corn salsa and coleslaw.
+
+Dinner (625 kcal):
+- 1 serving Tofu Pad Thai
+- 1 serving Starbucks strawberry açai refresher
+Recipe: Heat Pad Thai, serve with chilled refresher.
+
+Total Nutrition:
+Calories: 1667 kcal
+Protein: 51g
+Carbohydrates: 189g
+Fat: 71g
+
+MEAL PLAN 3:
+
+Breakfast (421 kcal):
+- 1 everything bagel
+- 1 serving Starbucks strawberry açai refresher
+Recipe: Toast bagel, serve with chilled refresher.
+
+Lunch (646 kcal):
+- 1 beef Angus burger patty
+- 1 cup coleslaw
+- 1/2 cup baked beans
+Recipe: Grill burger patty, serve with sides.
+
+Dinner (600 kcal):
+- 1 serving Tofu Pad Thai
+- 1 cup corn salsa
+Recipe: Heat Pad Thai, top with fresh corn salsa.
+
+Total Nutrition:
+Calories: 1667 kcal
+Protein: 51g
+Carbohydrates: 182g
+Fat: 73g
+
+Each meal plan meets the target calories (1667 kcal) and protein (51.45g) requirements while incorporating different combinations of the available items. Portion sizes have been adjusted to meet nutritional targets while maintaining variety between meals.

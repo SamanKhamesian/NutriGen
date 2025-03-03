@@ -1,0 +1,17 @@
+Food_French_Toast_Crunch_cereal = 1.0
+Food_Jack_in_the_boc_oreo_milkshake = 0.5
+Food_avocado = 1.0
+Food_beef_angus_burger_patty = 1.0
+Food_cheddar_Chex_Mix = 1.0
+Food_chicken_biryani = 0.5
+Food_chocolate_chip_Cliff_Bar = 1.0
+Food_cranberry_juice = 1.0
+Food_eggs_benedict = 1.0
+Food_glazed_donut = 1.0
+Food_nectarine = 1.0
+Food_tater_tots = 2.0
+Food_vegetable_cream_cheese = 2.0
+--------------------------
+energy = 3054.5
+protein = 97.25
+sugar = 121.99

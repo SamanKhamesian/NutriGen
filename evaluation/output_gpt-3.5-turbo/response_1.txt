@@ -1,0 +1,95 @@
+### Meal Plan Option 1:
+
+#### Breakfast: Belvita Chocolate Breakfast Sandwiches
+- 1.5 Belvita Chocolate Breakfast Sandwiches
+  - Recipe: Enjoy the breakfast sandwiches with a glass of cranberry juice.
+- **Calories:** 400 kcal
+- **Total Fat:** 12g, **Total Protein:** 6g, **Total Carbohydrate:** 65g
+
+#### Snack: Nectarine and Nutella
+- 1.5 Nectarines and 1.5 tablespoons of Nutella
+  - Recipe: Dip sliced nectarines in Nutella for a sweet and satisfying snack.
+- **Calories:** 300 kcal
+- **Total Fat:** 10g, **Total Protein:** 3g, **Total Carbohydrate:** 51g
+
+#### Lunch: Garden Pizza with Coleslaw
+- 1 Garden Pizza and 2 Coleslaw servings
+  - Recipe: Bake the Garden Pizza according to package instructions and serve with a side of coleslaw.
+- **Calories:** 800 kcal
+- **Total Fat:** 24g, **Total Protein:** 16g, **Total Carbohydrate:** 128g
+
+#### Snack: Poppyseed Dressing with Sopaipillas
+- 1 serving of Poppyseed Dressing and 2.5 Sopaipillas
+  - Recipe: Drizzle poppyseed dressing over sopaipillas for a flavorful snack.
+- **Calories:** 600 kcal
+- **Total Fat:** 20g, **Total Protein:** 10g, **Total Carbohydrate:** 95g
+
+#### Dinner: Vegan Ramen with Spinach
+- 2 servings of Vegan Ramen and 2 servings of Spinach
+  - Recipe: Prepare the vegan ramen per package instructions and add sautéed spinach on top.
+- **Calories:** 911.91 kcal
+- **Total Fat:** 21g, **Total Protein:** 53.35g, **Total Carbohydrate:** 201.27g
+
+#### Total for the Day:
+- **Total Calories:** 3111.91 kcal
+- **Total Fat:** 87g, **Total Protein:** 88.35g, **Total Carbohydrate:** 540g
+
+---
+
+### Meal Plan Option 2:
+
+#### Breakfast: Doritos with Jack in the Box Oreo Milkshake
+- 2 servings of Doritos and 0.5 Oreo Milkshake
+  - Recipe: Enjoy Doritos with a side of Oreo Milkshake for a unique breakfast twist.
+- **Calories:** 600 kcal
+- **Total Fat:** 32g, **Total Protein:** 8g, **Total Carbohydrate:** 76g
+
+#### Snack: Egyptian Spinach Pie
+- 2 servings of Egyptian Spinach Pie
+  - Recipe: Heat the spinach pie and enjoy it as a savory snack.
+- **Calories:** 400 kcal
+- **Total Fat:** 20g, **Total Protein:** 6g, **Total Carbohydrate:** 50g
+
+#### Lunch: White Rice with Beansprouts and Green Onion
+- 1 serving of White Rice, 1.5 servings of Beansprouts, and 1 serving of Green Onion
+  - Recipe: Cook the white rice and serve with sautéed beansprouts and green onions.
+- **Calories:** 800 kcal
+- **Total Fat:** 3g, **Total Protein:** 12g, **Total Carbohydrate:** 160g
+
+#### Snack: Glazed Donut with Honey
+- 1.5 Glazed Donuts with 4 tablespoons of Honey
+  - Recipe: Drizzle honey over the glazed donuts for a sweet snack.
+- **Calories:** 711.91 kcal
+- **Total Fat:** 27g, **Total Protein:** 6g, **Total Carbohydrate:** 124.27g
+
+#### Dinner: Hamburger with Cheese and Guacamole
+- 1 Hamburger with Cheese and Guacamole
+  - Recipe: Grill the hamburger patty, assemble with cheese and guacamole in a bun.
+- **Calories:** 600 kcal
+- **Total Fat:** 30g, **Total Protein:** 25.35g, **Total Carbohydrate:** 46g
+
+#### Total for the Day:
+- **Total Calories:** 3111.91 kcal
+- **Total Fat:** 112g, **Total Protein:** 57.35g, **Total Carbohydrate:** 456.27g
+
+---
+
+### Meal Plan Option 3:
+
+#### Breakfast: Starbuck Strawberry Acai Refresher
+- 1 serving of Starbuck Strawberry Acai Refresher
+  - Recipe: Enjoy the refreshing beverage as a light breakfast option.
+- **Calories:** 200 kcal
+- **Total Fat:** 0g, **Total Protein:** 1g, **Total Carbohydrate:** 50g
+
+#### Snack: Peanut Butter with Onion
+- 1 serving of Peanut Butter and 2 servings of Onion
+  - Recipe: Spread peanut butter on onion slices for a unique snack.
+- **Calories:** 300 kcal
+- **Total Fat:** 22g, **Total Protein:** 7g, **Total Carbohydrate:** 24g
+
+#### Lunch: Sopaipillas with Cranberry Juice
+- 2.5 Sopaipillas and 1 serving of Cranberry Juice
+  - Recipe: Enjoy sopaipillas with a glass of cranberry juice for a satisfying lunch.
+- **Calories:** 600 kcal
+- **Total Fat:** 25g, **Total Protein:** 5g, **Total Carbohydrate:** 90

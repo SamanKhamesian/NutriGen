@@ -1,0 +1,136 @@
+Based on the available foods, I've created three meal plan options that fit within the given nutritional targets. Each plan includes breakfast, lunch, dinner, and snacks. Here's a breakdown for each option:
+
+### Meal Plan Option 1
+
+**Breakfast:**
+- **Eggs Benedict (Half Portion):**  
+  *Recipe:* Poach 1 egg and place it on half an English muffin. Top with 1 tablespoon of hollandaise sauce and a slice of Canadian bacon.  
+  *Calories:* 150 kcal  
+  *Protein:* 7g  
+  *Sugar:* 1g
+
+**Lunch:**
+- **Garden Pizza (1 Serving):**  
+  *Recipe:* Bake the pizza according to package instructions.  
+  *Calories:* 300 kcal  
+  *Protein:* 12g  
+  *Sugar:* 4g
+
+**Dinner:**
+- **Beef Angus Burger:**  
+  *Recipe:* Grill 1 beef Angus burger patty and assemble it with a bun, lettuce, tomato, and a slice of cheese. Serve with lettuce and tomato.  
+  *Calories:* 500 kcal  
+  *Protein:* 25g  
+  *Sugar:* 5g
+
+**Snacks:**
+- **Barbeque Lays (1 Serving):**  
+  *Calories:* 150 kcal  
+  *Protein:* 2g  
+  *Sugar:* 1g
+
+- **Milano Double Chocolate (1 Serving):**  
+  *Calories:* 100 kcal  
+  *Protein:* 2g  
+  *Sugar:* 8g
+
+- **Chocolate Milkshake (Half Portion):**  
+  *Recipe:* Blend 1/2 cup of chocolate ice cream with 1/4 cup of milk until smooth.  
+  *Calories:* 200 kcal  
+  *Protein:* 6g  
+  *Sugar:* 18g
+
+**Total Daily Intake:**
+- **Calories:** 1400 kcal
+- **Protein:** 54g
+- **Sugar:** 37g
+
+---
+
+### Meal Plan Option 2
+
+**Breakfast:**
+- **Eggs Benedict (Half Portion):**  
+  *Calories:* 150 kcal  
+  *Protein:* 7g  
+  *Sugar:* 1g
+
+**Lunch:**
+- **Beef Angus Burger:**  
+  *Calories:* 500 kcal  
+  *Protein:* 25g  
+  *Sugar:* 5g
+
+**Dinner:**
+- **Garden Pizza (1 Serving):**  
+  *Calories:* 300 kcal  
+  *Protein:* 12g  
+  *Sugar:* 4g
+
+**Snacks:**
+- **Baked Cheddar Ruffles (1 Serving):**  
+  *Calories:* 150 kcal  
+  *Protein:* 2g  
+  *Sugar:* 1g
+
+- **Chocolate Milkshake (Half Portion):**  
+  *Calories:* 200 kcal  
+  *Protein:* 6g  
+  *Sugar:* 18g
+
+- **Milano Double Chocolate (1 Serving):**  
+  *Calories:* 100 kcal  
+  *Protein:* 2g  
+  *Sugar:* 8g
+
+**Total Daily Intake:**
+- **Calories:** 1400 kcal
+- **Protein:** 54g
+- **Sugar:** 37g
+
+---
+
+### Meal Plan Option 3
+
+**Breakfast:**
+- **Eggs Benedict (Half Portion):**  
+  *Calories:* 150 kcal  
+  *Protein:* 7g  
+  *Sugar:* 1g
+
+**Lunch:**
+- **Garden Pizza (1 Serving):**  
+  *Calories:* 300 kcal  
+  *Protein:* 12g  
+  *Sugar:* 4g
+
+**Dinner:**
+- **Beef Angus Burger:**  
+  *Calories:* 500 kcal  
+  *Protein:* 25g  
+  *Sugar:* 5g
+
+**Snacks:**
+- **Tortilla Chips (1 Serving):**  
+  *Calories:* 150 kcal  
+  *Protein:* 2g  
+  *Sugar:* 1g
+
+- **Milano Double Chocolate (1 Serving):**  
+  *Calories:* 100 kcal  
+  *Protein:* 2g  
+  *Sugar:* 8g
+
+- **Chocolate Milkshake (Half Portion):**  
+  *Calories:* 200 kcal  
+  *Protein:* 6g  
+  *Sugar:* 18g
+
+**Total Daily Intake:**
+- **Calories:** 1400 kcal
+- **Protein:** 54g
+- **Sugar:** 37g
+
+---
+
+Each meal plan option provides a variety of foods while staying within the nutritional targets, though the calorie target is slightly under. You may need to adjust portion sizes if exact calorie matching is necessary.

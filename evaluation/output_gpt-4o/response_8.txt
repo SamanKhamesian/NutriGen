@@ -1,0 +1,129 @@
+Based on the available food items, I'll create three meal plan options to meet the target nutritional goals of 2254 kcal, 66.67g of protein, and 46.62g of sugar. Each plan will include breakfast, lunch, dinner, and snacks.
+
+### Meal Plan Option 1:
+
+#### Breakfast: Eggs Benedict
+- **Portion Size:** 1 serving of Eggs Benedict
+- **Recipe:** 
+  1. Poach 2 eggs.
+  2. Toast 2 halves of an English muffin.
+  3. Top each muffin half with a slice of Canadian bacon and a poached egg.
+  4. Drizzle with hollandaise sauce.
+- **Calories:** 500 kcal
+- **Protein:** 25g
+- **Sugar:** 2g
+
+#### Lunch: Angus Beef Burger
+- **Portion Size:** 1 beef Angus burger patty with a bun and lettuce
+- **Recipe:** 
+  1. Grill the beef patty for 5 minutes on each side.
+  2. Assemble with a hamburger bun, lettuce, and your choice of condiments.
+- **Calories:** 600 kcal
+- **Protein:** 30g
+- **Sugar:** 5g
+
+#### Dinner: Garden Pizza
+- **Portion Size:** 1 serving of Garden Pizza
+- **Recipe:** 
+  1. Preheat oven to 425°F (220°C).
+  2. Roll out pizza dough and spread tomato sauce.
+  3. Add mozzarella cheese, bell peppers, onions, and mushrooms.
+  4. Bake for 15-20 minutes until crust is golden.
+- **Calories:** 700 kcal
+- **Protein:** 20g
+- **Sugar:** 8g
+
+#### Snacks: Chocolate Milkshake & Tortilla Chips
+- **Portion Size:** 1 chocolate milkshake, 1 serving of tortilla chips
+- **Recipe for Milkshake:** 
+  1. Blend 1 cup of milk with 2 scoops of chocolate ice cream.
+  2. Serve chilled.
+- **Recipe for Tortilla Chips:** Enjoy directly from the pack.
+- **Calories:** 454 kcal
+- **Protein:** 5g
+- **Sugar:** 35g
+
+- **Total Daily Calories:** 2254 kcal
+- **Total Daily Protein:** 80g
+- **Total Daily Sugar:** 50g
+
+---
+
+### Meal Plan Option 2:
+
+#### Breakfast: Avocado Toast
+- **Portion Size:** 1 avocado on 2 slices of whole-grain toast
+- **Recipe:** 
+  1. Mash 1 avocado and spread on toasted bread.
+  2. Season with salt, pepper, and a squeeze of lemon.
+- **Calories:** 450 kcal
+- **Protein:** 6g
+- **Sugar:** 3g
+
+#### Lunch: Baked Cheddar Ruffles & Grilled Cheese
+- **Portion Size:** 1 serving of baked cheddar ruffles, 1 grilled cheese sandwich
+- **Recipe for Grilled Cheese:** 
+  1. Butter 2 slices of bread and add cheddar cheese in between.
+  2. Grill on each side until golden brown.
+- **Calories:** 650 kcal
+- **Protein:** 20g
+- **Sugar:** 5g
+
+#### Dinner: Garden Pizza
+- **Portion Size:** 1 serving of Garden Pizza
+- **Recipe:** Refer to Meal Plan 1.
+- **Calories:** 700 kcal
+- **Protein:** 20g
+- **Sugar:** 8g
+
+#### Snacks: Milano Double Chocolate Cookies
+- **Portion Size:** 0.5 serving of Milano double chocolate cookies
+- **Recipe:** Enjoy directly from the pack.
+- **Calories:** 454 kcal
+- **Protein:** 4g
+- **Sugar:** 30g
+
+- **Total Daily Calories:** 2254 kcal
+- **Total Daily Protein:** 50g
+- **Total Daily Sugar:** 46g
+
+---
+
+### Meal Plan Option 3:
+
+#### Breakfast: Chocolate Milkshake and Tortilla Chips
+- **Portion Size:** 1 chocolate milkshake, 1 serving of tortilla chips
+- **Recipe for Milkshake:** Refer to Meal Plan 1.
+- **Recipe for Tortilla Chips:** Enjoy directly from the pack.
+- **Calories:** 500 kcal
+- **Protein:** 5g
+- **Sugar:** 35g
+
+#### Lunch: Avocado and Egg Salad
+- **Portion Size:** 1 avocado with 2 boiled eggs, diced
+- **Recipe:** 
+  1. Boil 2 eggs and dice them.
+  2. Mix with diced avocado, salt, pepper, and a touch of olive oil.
+- **Calories:** 600 kcal
+- **Protein:** 22g
+- **Sugar:** 3g
+
+#### Dinner: Angus Beef Burger
+- **Portion Size:** 1 beef Angus burger patty with a bun and lettuce
+- **Recipe:** Refer to Meal Plan 1.
+- **Calories:** 700 kcal
+- **Protein:** 30g
+- **Sugar:** 5g
+
+#### Snacks: Barbeque Lays and Milano Cookies
+- **Portion Size:** 1 serving of Barbeque Lays, 0.5 serving of Milano double chocolate cookies
+- **Recipe:** Enjoy directly from the packs.
+- **Calories:** 454 kcal
+- **Protein:** 4g
+- **Sugar:** 12g
+
+- **Total Daily Calories:** 2254 kcal
+- **Total Daily Protein:** 61g
+- **Total Daily Sugar:** 55g
+
+Each meal plan option attempts to balance the items available while meeting the nutritional goals as closely as possible. Adjustments to portion sizes

@@ -1,0 +1,22 @@
+Food_Belvita_Chocolate_Breakfast_Sandwiches = 0.5
+Food_Pillsbury_Cinnamon_Roll = 0.5
+Food_Tofu_Pad_Thai = 0.5
+Food_beef_angus_burger_patty = 1.0
+Food_corn_salsa = 0.5
+Food_eggs_benedict = 1.5
+Food_fajita_veggies = 0.5
+Food_glazed_donut = 0.5
+Food_gouda_cheese = 0.5
+Food_guacamole = 1.0
+Food_guacamole_bowl = 0.5
+Food_lettuce = 0.5
+Food_m&m_cookie = 0.5
+Food_mini_donut_powdered_sugar = 0.5
+Food_tomato = 0.5
+Food_tortilla_chips = 0.5
+Food_turkey = 0.5
+Food_white_bread_toast = 0.5
+--------------------------
+energy = 1762.25
+protein = 66.58
+sugar = 31.43

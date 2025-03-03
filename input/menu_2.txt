@@ -1,0 +1,23 @@
+Food_Belvita_Chocolate_Breakfast_Sandwiches = 1.5
+Food_Doritoes = 2.0
+Food_Garden_Pizza = 0.5
+Food_avocado = 2.0
+Food_beansprouts = 1.5
+Food_cheese = 2.0
+Food_coleslaw = 2.0
+Food_cranberry_juice = 1.0
+Food_egyptian_spinach_pie = 2.0
+Food_glazed_donut = 0.5
+Food_guacamole = 2.0
+Food_lettuce = 3.0
+Food_onion = 2.0
+Food_peanut_butter = 1.0
+Food_poppyseed_dressing = 1.0
+Food_sopaipillas = 2.5
+Food_spinach_ = 2.0
+Food_vegan_ramen = 2.0
+Food_white_rice = 1.0
+--------------------------
+energy = 2126.41
+protein = 51.91
+sugar = 35.74

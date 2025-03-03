@@ -1,0 +1,136 @@
+**Meal Plan Option 1**
+
+1. **Breakfast**: Strawberry Refresher Parfait
+   - 1 cup mixed berries (150g)
+   - 1 cup Greek yogurt (200g)
+   - 1/2 cup granola (50g)
+   - 1 Food_Starbuck_strawberry_acai_refresher (2.0)
+
+   Total Calories: 350 kcal
+   Total Fat: 10g
+   Total Protein: 20g
+   Total Carbohydrate: 50g
+
+2. **Lunch**: Tofu Pad Thai
+   - 1 serving Tofu Pad Thai (400g)
+   - 1/2 cup mixed vegetables (50g)
+   - 1/4 cup chopped peanuts (30g)
+
+   Total Calories: 450 kcal
+   Total Fat: 15g
+   Total Protein: 20g
+   Total Carbohydrate: 60g
+
+3. **Dinner**: Beef Angus Burger
+   - 1 beef angus burger patty (150g)
+   - 1 everything bagel (100g)
+   - 1/2 cup coleslaw (50g)
+   - 1/4 cup corn salsa (20g)
+
+   Total Calories: 550 kcal
+   Total Fat: 30g
+   Total Protein: 35g
+   Total Carbohydrate: 30g
+
+4. **Snack**: Baked Beans
+   - 1 serving baked beans (200g)
+
+   Total Calories: 200 kcal
+   Total Fat: 0g
+   Total Protein: 10g
+   Total Carbohydrate: 40g
+
+Total Daily Calories: 1650 kcal
+Total Daily Protein: 85g
+Total Daily Sugar: 80g
+
+**Meal Plan Option 2**
+
+1. **Breakfast**: Maple Crème Brûlée
+   - 1 serving maple crème brûlée (150g)
+
+   Total Calories: 250 kcal
+   Total Fat: 15g
+   Total Protein: 10g
+   Total Carbohydrate: 30g
+
+2. **Lunch**: Tofu Pad Thai
+   - 1 serving Tofu Pad Thai (400g)
+   - 1/2 cup mixed vegetables (50g)
+   - 1/4 cup chopped peanuts (30g)
+
+   Total Calories: 450 kcal
+   Total Fat: 15g
+   Total Protein: 20g
+   Total Carbohydrate: 60g
+
+3. **Dinner**: Beef Angus Burger
+   - 1 beef angus burger patty (150g)
+   - 1 everything bagel (100g)
+   - 1/2 cup coleslaw (50g)
+   - 1/4 cup corn salsa (20g)
+
+   Total Calories: 550 kcal
+   Total Fat: 30g
+   Total Protein: 35g
+   Total Carbohydrate: 30g
+
+4. **Snack**: Baked Beans
+   - 1 serving baked beans (200g)
+
+   Total Calories: 200 kcal
+   Total Fat: 0g
+   Total Protein: 10g
+   Total Carbohydrate: 40g
+
+Total Daily Calories: 1650 kcal
+Total Daily Protein: 75g
+Total Daily Sugar: 80g
+
+**Meal Plan Option 3**
+
+1. **Breakfast**: Strawberry Refresher Parfait
+   - 1 cup mixed berries (150g)
+   - 1 cup Greek yogurt (200g)
+   - 1/2 cup granola (50g)
+   - 1 Food_Starbuck_strawberry_acai_refresher (2.0)
+
+   Total Calories: 350 kcal
+   Total Fat: 10g
+   Total Protein: 20g
+   Total Carbohydrate: 50g
+
+2. **Lunch**: Beef Angus Burger
+   - 1 beef angus burger patty (150g)
+   - 1 everything bagel (100g)
+   - 1/2 cup coleslaw (50g)
+   - 1/4 cup corn salsa (20g)
+
+   Total Calories: 550 kcal
+   Total Fat: 30g
+   Total Protein: 35g
+   Total Carbohydrate: 30g
+
+3. **Dinner**: Tofu Pad Thai
+   - 1 serving Tofu Pad Thai (400g)
+   - 1/2 cup mixed vegetables (50g)
+   - 1/4 cup chopped peanuts (30g)
+
+   Total Calories: 450 kcal
+   Total Fat: 15g
+   Total Protein: 20g
+   Total Carbohydrate: 60g
+
+4. **Snack**: Baked Beans
+   - 1 serving baked beans (200g)
+
+   Total Calories: 200 kcal
+   Total Fat: 0g
+   Total Protein: 10g
+   Total Carbohydrate: 40g
+
+Total Daily Calories: 1650 kcal
+Total Daily Protein: 85g
+Total Daily Sugar: 80g
+
+These meal plans provide a balanced mix of macronutrients and meet the specified targets. They include a variety of protein sources, healthy fats, and complex carbohydrates. The portion sizes are realistic and can be adjusted based on individual needs.

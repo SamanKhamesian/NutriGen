@@ -1,0 +1,13 @@
+Food_Barbequeue_Lays = 1.0
+Food_Garden_Pizza = 1.0
+Food_Milano_double_chocolate_ = 0.5
+Food_avocado = 2.5
+Food_baked_cheddar_ruffles = 1.0
+Food_beef_angus_burger_patty = 1.0
+Food_chocolate_milkshake = 1.0
+Food_eggs_benedict = 1.0
+Food_tortilla_chips = 1.0
+--------------------------
+energy = 2254.0
+protein = 66.67
+sugar = 46.62

@@ -1,0 +1,13 @@
+Food_avocado = 1.0
+Food_beef_angus_burger_patty = 0.5
+Food_cheddar_Chex_Mix = 1.0
+Food_cranberry_juice = 1.0
+Food_eggs_benedict = 1.0
+Food_glazed_donut = 1.0
+Food_nectarine = 1.0
+Food_tater_tots = 2.0
+Food_vegetable_cream_cheese = 2.0
+--------------------------
+energy = 1775.0
+protein = 48.49
+sugar = 36.18

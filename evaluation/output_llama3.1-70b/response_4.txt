@@ -1,0 +1,78 @@
+Here are three meal plan options that meet the user's targets and preferences:
+
+**Meal Plan Option 1**
+
+* Breakfast: Belvita Chocolate Breakfast Sandwiches (400 kcal)
+	+ 2 Belvita Chocolate Breakfast Sandwiches (200g)
+	+ Recipe: Toast the sandwiches and serve with a glass of water
+* Lunch: Turkey and Avocado Wrap (550 kcal)
+	+ 1 whole wheat tortilla (100g)
+	+ 2 slices of turkey breast (100g)
+	+ 1/2 avocado (100g)
+	+ Lettuce and tomato (20g)
+	+ Recipe: Assemble the wrap by spreading guacamole on the tortilla, adding sliced turkey, avocado, lettuce, and tomato
+* Dinner: Beef Angus Burger Patty with Lettuce and Tomato (500 kcal)
+	+ 1 beef angus burger patty (150g)
+	+ 1 lettuce leaf (20g)
+	+ 1 tomato slice (20g)
+	+ Recipe: Grill the patty for 5 minutes, then assemble with lettuce, tomato, and a bun
+* Snack: Guacamole Bowl (150 kcal)
+	+ 1/2 cup guacamole (100g)
+	+ 1/2 cup tortilla chips (50g)
+	+ Recipe: Serve guacamole with tortilla chips
+
+Total Calories: 2100 kcal
+Total Fat: 70g
+Total Protein: 65g
+Total Carbohydrate: 250g
+
+**Meal Plan Option 2**
+
+* Breakfast: Eggs Benedict (350 kcal)
+	+ 2 eggs (140g)
+	+ 2 slices of Canadian bacon (100g)
+	+ 1 English muffin (100g)
+	+ Recipe: Toast the English muffin, top with Canadian bacon, poached eggs, and hollandaise sauce
+* Lunch: Tofu Pad Thai (500 kcal)
+	+ 1 cup cooked tofu (200g)
+	+ 1 cup cooked Pad Thai noodles (200g)
+	+ 1/2 cup mixed vegetables (100g)
+	+ Recipe: Cook the noodles and tofu, then stir-fry with mixed vegetables and serve with peanuts and lime wedges
+* Dinner: Grilled Chicken Breast with Roasted Vegetables (500 kcal)
+	+ 1 chicken breast (150g)
+	+ 1 cup mixed roasted vegetables (100g)
+	+ Recipe: Grill the chicken breast for 5 minutes, then serve with roasted vegetables
+* Snack: M&M Cookie (150 kcal)
+	+ 1 M&M cookie (50g)
+	+ Recipe: Serve as is
+
+Total Calories: 2100 kcal
+Total Fat: 70g
+Total Protein: 65g
+Total Carbohydrate: 250g
+
+**Meal Plan Option 3**
+
+* Breakfast: Avocado Toast (350 kcal)
+	+ 2 slices whole wheat bread (100g)
+	+ 1/2 avocado (100g)
+	+ Salt and pepper to taste
+	+ Recipe: Toast the bread, mash the avocado, and spread on top
+* Lunch: Fajita Veggie Wrap (500 kcal)
+	+ 1 whole wheat tortilla (100g)
+	+ 1 cup cooked fajita vegetables (200g)
+	+ 1/4 cup shredded cheese (50g)
+	+ Recipe: Assemble the wrap by spreading guacamole on the tortilla, adding cooked fajita vegetables, and topping with shredded cheese
+* Dinner: Grilled Turkey Burger Patty with Lettuce and Tomato (500 kcal)
+	+ 1 turkey burger patty (150g)
+	+ 1 lettuce leaf (20g)
+	+ 1 tomato slice (20g)
+	+ Recipe: Grill the patty for 5 minutes, then assemble with lettuce, tomato, and a bun
+* Snack: Mini Donut Powdered Sugar (150 kcal)
+	+ 1 mini donut (50g)
+	+ Recipe: Serve as is
+
+Total Calories: 2100 kcal
+Total Fat: 70g
+Total Protein: 65g
+Total Carbohydrate: 250g

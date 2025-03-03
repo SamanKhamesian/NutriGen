@@ -1,0 +1,525 @@
+Day_ 6
+Food_Belvita_Chocolate_Breakfast_Sandwiches = 1.5
+Food_Doritoes = 2.0
+Food_Garden_Pizza = 1.0
+Food_Jack_in_the_boc_oreo_milkshake = 0.5
+Food_Starbuck_strawberry_acai_refresher = 1.0
+Food_beansprouts = 1.5
+Food_cheese = 2.0
+Food_coleslaw = 2.0
+Food_cranberry_juice = 1.0
+Food_egyptian_spinach_pie = 2.0
+Food_glazed_donut = 1.5
+Food_green_onion = 1.0
+Food_guacamole = 2.0
+Food_honey = 4.0
+Food_impossible_meat = 3.0
+Food_lettuce = 3.0
+Food_nectarine = 1.5
+Food_nutella = 1.5
+Food_onion = 2.0
+Food_peanut_butter = 1.0
+Food_poppyseed_dressing = 1.0
+Food_sopaipillas = 2.5
+Food_spinach_ = 2.0
+Food_vegan_ramen = 2.0
+Food_white_rice = 1.0
+***
+energy 3111.91
+protein 88.35
+sugar 215.27
+---
+Day_ 15
+Food_Belvita_Chocolate_Breakfast_Sandwiches = 1.5
+Food_Doritoes = 2.0
+Food_Garden_Pizza = 0.5
+Food_avocado = 2.0
+Food_beansprouts = 1.5
+Food_cheese = 2.0
+Food_coleslaw = 2.0
+Food_cranberry_juice = 1.0
+Food_egyptian_spinach_pie = 2.0
+Food_glazed_donut = 0.5
+Food_guacamole = 2.0
+Food_lettuce = 3.0
+Food_onion = 2.0
+Food_peanut_butter = 1.0
+Food_poppyseed_dressing = 1.0
+Food_sopaipillas = 2.5
+Food_spinach_ = 2.0
+Food_vegan_ramen = 2.0
+Food_white_rice = 1.0
+***
+energy 2126.41
+protein 51.91
+sugar 35.74
+---
+Day_ 7
+Food_Belvita_Chocolate_Breakfast_Sandwiches = 0.5
+Food_Pillsbury_Cinnamon_Roll = 0.5
+Food_Tofu_Pad_Thai = 0.5
+Food_beef_angus_burger_patty = 1.0
+Food_corn_salsa = 0.5
+Food_eggs_benedict = 1.5
+Food_fajita_veggies = 0.5
+Food_glazed_donut = 0.5
+Food_gouda_cheese = 0.5
+Food_guacamole = 1.0
+Food_guacamole_bowl = 0.5
+Food_lettuce = 0.5
+Food_m&m_cookie = 0.5
+Food_mini_donut_powdered_sugar = 0.5
+Food_tomato = 0.5
+Food_tortilla_chips = 0.5
+Food_turkey = 0.5
+Food_white_bread_toast = 0.5
+***
+energy 1762.25
+protein 66.58
+sugar 31.43
+---
+Day_ 13
+Food_Belvita_Chocolate_Breakfast_Sandwiches = 0.5
+Food_Pillsbury_Cinnamon_Roll = 0.5
+Food_Tofu_Pad_Thai = 0.5
+Food_avocado = 2.5
+Food_beef_angus_burger_patty = 1.0
+Food_corn_salsa = 0.5
+Food_eggs_benedict = 1.0
+Food_fajita_veggies = 0.5
+Food_glazed_donut = 0.5
+Food_gouda_cheese = 0.5
+Food_guacamole = 1.0
+Food_guacamole_bowl = 0.5
+Food_lettuce = 0.5
+Food_m&m_cookie = 0.5
+Food_mini_donut_powdered_sugar = 0.5
+Food_tomato = 0.5
+Food_tortilla_chips = 0.5
+Food_turkey = 0.5
+Food_white_bread_toast = 0.5
+***
+energy 2146.50
+protein 65.76
+sugar 32.16
+---
+Day_ 8
+Food_French_Toast_Crunch_cereal = 1.0
+Food_Jack_in_the_boc_oreo_milkshake = 0.5
+Food_avocado = 1.0
+Food_beef_angus_burger_patty = 1.0
+Food_cheddar_Chex_Mix = 1.0
+Food_chicken_biryani = 0.5
+Food_chocolate_chip_Cliff_Bar = 1.0
+Food_cranberry_juice = 1.0
+Food_eggs_benedict = 1.0
+Food_glazed_donut = 1.0
+Food_nectarine = 1.0
+Food_tater_tots = 2.0
+Food_vegetable_cream_cheese = 2.0
+***
+energy 3054.50
+protein 97.25
+sugar 121.99
+---
+Day_ 19
+Food_avocado = 1.0
+Food_beef_angus_burger_patty = 0.5
+Food_cheddar_Chex_Mix = 1.0
+Food_cranberry_juice = 1.0
+Food_eggs_benedict = 1.0
+Food_glazed_donut = 1.0
+Food_nectarine = 1.0
+Food_tater_tots = 2.0
+Food_vegetable_cream_cheese = 2.0
+***
+energy 1775.00
+protein 48.49
+sugar 36.18
+---
+Day_ 6
+Food_Barbequeue_Lays = 1.0
+Food_Garden_Pizza = 1.0
+Food_Milano_double_chocolate_ = 1.0
+Food_baked_cheddar_ruffles = 1.0
+Food_beef_angus_burger_patty = 1.0
+Food_chocolate_milkshake = 1.0
+Food_eggs_benedict = 0.5
+Food_tortilla_chips = 1.0
+***
+energy 1573.25
+protein 54.00
+sugar 58.30
+---
+Day_ 14
+Food_Barbequeue_Lays = 1.0
+Food_Garden_Pizza = 1.0
+Food_Milano_double_chocolate_ = 0.5
+Food_avocado = 2.5
+Food_baked_cheddar_ruffles = 1.0
+Food_beef_angus_burger_patty = 1.0
+Food_chocolate_milkshake = 1.0
+Food_eggs_benedict = 1.0
+Food_tortilla_chips = 1.0
+***
+energy 2254.00
+protein 66.67
+sugar 46.62
+---
+Day_ 4
+Food_Maple_Crème_Bruele = 0.5
+Food_Starbuck_strawberry_acai_refresher = 2.0
+Food_Tofu_Pad_Thai = 0.5
+Food_baked_beans = 0.5
+Food_beef_angus_burger_patty = 1.0
+Food_coleslaw = 2.0
+Food_corn_salsa = 2.0
+Food_everything_bagel = 1.0
+***
+energy 1667.16
+protein 51.45
+sugar 54.41
+---
+Day_ 14
+Food_Maple_Crème_Bruele = 0.5
+Food_Starbuck_strawberry_acai_refresher = 1.0
+Food_Tofu_Pad_Thai = 0.5
+Food_avocado = 2.5
+Food_baked_beans = 0.5
+Food_beef_angus_burger_patty = 0.5
+Food_coleslaw = 2.0
+Food_corn_salsa = 2.0
+Food_eggs_benedict = 0.5
+Food_everything_bagel = 1.0
+***
+energy 2137.41
+protein 52.62
+sugar 41.73
+---
+Day_ 3
+Food_Berry_Cheerios = 1.0
+Food_Kool_aid_Tropical_Punch = 2.0
+Food_Krave_chocolate_cereal = 0.5
+Food_Lay's_Sour_Cream_and_Onion_Potato_Chips = 1.0
+Food_Milton's_Original_Multi_Grain_Crackers = 1.0
+Food_Quaker_Smores_Granola_Bar = 2.0
+Food_beef_angus_burger_patty = 1.0
+Food_clementine = 1.0
+Food_egg_ = 1.0
+Food_lettuce = 1.0
+Food_skim_milk = 2.0
+***
+energy 1269.00
+protein 58.43
+sugar 69.72
+---
+Day_ 14
+Food_Berry_Cheerios = 1.0
+Food_Kool_aid_Tropical_Punch = 2.0
+Food_Lay's_Sour_Cream_and_Onion_Potato_Chips = 1.0
+Food_Milton's_Original_Multi_Grain_Crackers = 1.0
+Food_Quaker_Smores_Granola_Bar = 2.0
+Food_avocado = 5.0
+Food_beef_angus_burger_patty = 0.5
+Food_clementine = 1.0
+Food_egg_ = 1.0
+Food_eggs_benedict = 1.0
+Food_lettuce = 1.0
+***
+energy 2346.25
+protein 56.45
+sugar 43.32
+---
+Day_ 2
+Food_Doritoes = 1.0
+Food_French_Toast_Crunch_cereal = 2.0
+Food_Garden_Pizza = 2.0
+Food_avocado = 1.0
+Food_beef_angus_burger_patty = 0.5
+Food_cheese = 2.0
+Food_everything_bagel = 1.0
+Food_mexican_rice = 1.0
+Food_nectarine = 0.5
+Food_vegan_ramen = 1.0
+***
+energy 2346.50
+protein 63.27
+sugar 75.98
+---
+Day_ 15
+Food_Doritoes = 1.0
+Food_French_Toast_Crunch_cereal = 0.5
+Food_Garden_Pizza = 2.0
+Food_avocado = 4.0
+Food_cheese = 2.0
+Food_everything_bagel = 1.0
+Food_mexican_rice = 1.0
+Food_nectarine = 0.5
+Food_vegan_ramen = 1.0
+***
+energy 2231.00
+protein 50.40
+sugar 32.48
+---
+Day_ 2
+Food_Blended_Strawberry_Margarita = 1.0
+Food_Kool_aid_Tropical_Punch = 1.0
+Food_Kraft_Mac_and_Cheese = 1.0
+Food_Milano_double_chocolate_ = 1.0
+Food_Quaker_Smores_Granola_Bar = 1.0
+Food_avocado = 1.0
+Food_beef_angus_burger_patty = 0.5
+Food_double_chocolate_chip_cookie = 1.0
+Food_eggs_benedict = 1.0
+Food_sour_cream = 1.0
+Food_tortilla_chips = 1.0
+Food_white_rice = 1.0
+***
+energy 1928.00
+protein 50.87
+sugar 76.01
+---
+Day_ 10
+Food_Blended_Strawberry_Margarita = 1.0
+Food_Kool_aid_Tropical_Punch = 1.0
+Food_Kraft_Mac_and_Cheese = 1.0
+Food_Milano_double_chocolate_ = 0.5
+Food_Quaker_Smores_Granola_Bar = 1.0
+Food_avocado = 3.0
+Food_beef_angus_burger_patty = 0.5
+Food_double_chocolate_chip_cookie = 1.0
+Food_eggs_benedict = 1.5
+Food_sour_cream = 1.0
+Food_tortilla_chips = 1.0
+Food_white_rice = 1.0
+***
+energy 2495.25
+protein 62.21
+sugar 64.13
+---
+Day_ 4
+Food_French_Toast_Crunch_cereal = 2.0
+Food_Pillsbury_Cinnamon_Roll = 1.0
+Food_avocado = 2.0
+Food_beef_angus_burger_patty = 2.0
+Food_coleslaw = 1.0
+Food_m&m_cookie = 2.0
+Food_peanut_butter = 2.0
+Food_sourdough_bread = 1.0
+Food_vegetable_cream_cheese = 3.0
+***
+energy 2872.33
+protein 96.92
+sugar 96.13
+---
+Day_ 14
+Food_Barbequeue_Lays = 0.5
+Food_Pillsbury_Cinnamon_Roll = 1.0
+Food_avocado = 6.0
+Food_beef_angus_burger_patty = 0.5
+Food_coleslaw = 1.0
+Food_m&m_cookie = 2.0
+Food_peanut_butter = 2.0
+Food_sourdough_bread = 1.0
+Food_vegetable_cream_cheese = 3.0
+***
+energy 2515.83
+protein 59.08
+sugar 39.63
+---
+Day_ 4
+Food_Chef_Boyardee_Ravioli = 1.0
+Food_Starbuck_strawberry_acai_refresher = 1.0
+Food_baked_cheddar_ruffles = 2.0
+Food_beef_angus_burger_patty = 2.0
+Food_chicken_taco = 1.5
+Food_chocolate_chip_Cliff_Bar = 1.0
+Food_clementine = 2.0
+Food_double_chocolate_chip_cookie = 3.0
+Food_guacamole_bowl = 2.0
+Food_mini_donut_powdered_sugar = 3.0
+Food_pringles = 5.0
+Food_sour_cream = 2.0
+***
+energy 3067.50
+protein 117.13
+sugar 118.50
+---
+Day_ 12
+Food_Chef_Boyardee_Ravioli = 1.0
+Food_avocado = 1.5
+Food_baked_cheddar_ruffles = 2.0
+Food_beef_angus_burger_patty = 1.0
+Food_chicken_taco = 1.5
+Food_clementine = 2.0
+Food_double_chocolate_chip_cookie = 2.5
+Food_guacamole_bowl = 2.0
+Food_mini_donut_powdered_sugar = 3.0
+Food_pringles = 5.5
+Food_sour_cream = 2.0
+***
+energy 2556.70
+protein 82.17
+sugar 75.10
+---
+Day_ 1
+Food_Maple_Crème_Bruele = 0.5
+Food_avocado = 1.0
+Food_brocoli_slaw = 2.0
+Food_m&m_cookie = 2.0
+Food_vegetable_cream_cheese = 3.0
+Food_white_bread_toast = 2.0
+Food_white_rice = 0.5
+***
+energy 1083.50
+protein 27.23
+sugar 45.63
+---
+Day_ 14
+Food_Maple_Crème_Bruele = 0.5
+Food_avocado = 4.0
+Food_beef_angus_burger_patty = 0.5
+Food_brocoli_slaw = 2.0
+Food_eggs_benedict = 0.5
+Food_m&m_cookie = 2.0
+Food_vegetable_cream_cheese = 3.0
+Food_white_bread_toast = 2.0
+Food_white_rice = 0.5
+***
+energy 2138.25
+protein 55.74
+sugar 47.16
+---
+Day_ 2
+Food_Blended_Strawberry_Margarita = 1.0
+Food_Chef_Boyardee_Ravioli = 1.0
+Food_Pillsbury_Cinnamon_Roll = 0.5
+Food_Starbuck_strawberry_acai_refresher = 3.0
+Food_beef_angus_burger_patty = 0.5
+Food_gouda_cheese = 1.0
+Food_red_apple = 1.0
+Food_sour_cream = 2.0
+Food_sourdough_bread = 1.0
+Food_tortilla_chips = 2.5
+***
+energy 1628.00
+protein 39.96
+sugar 90.25
+---
+Day_ 14
+Food_Blended_Strawberry_Margarita = 1.0
+Food_Chef_Boyardee_Ravioli = 1.0
+Food_Pillsbury_Cinnamon_Roll = 0.5
+Food_Starbuck_strawberry_acai_refresher = 1.5
+Food_avocado = 5.0
+Food_beef_angus_burger_patty = 0.5
+Food_eggs_benedict = 0.5
+Food_gouda_cheese = 1.0
+Food_sour_cream = 2.0
+Food_sourdough_bread = 1.0
+Food_tortilla_chips = 2.5
+***
+energy 2686.25
+protein 60.24
+sugar 49.36
+---
+Day_ 1
+Food_Blended_Strawberry_Margarita = 1.5
+Food_Doritoes = 3.0
+Food_Kraft_Mac_and_Chees_Microwavable_cup = 0.5
+Food_Maple_Crème_Bruele = 1.0
+Food_baked_beans = 1.5
+Food_brocoli_slaw = 1.0
+Food_brownie = 2.0
+Food_cheese_bowl = 2.0
+Food_chocolate_chip_Cliff_Bar = 1.0
+Food_m&m_cookie = 1.0
+Food_nectarine = 1.0
+Food_onion = 1.0
+Food_vegetable_cream_cheese = 1.0
+***
+energy 2604.50
+protein 60.42
+sugar 146.81
+---
+Day_ 15
+Food_Blended_Strawberry_Margarita = 1.0
+Food_Doritoes = 3.0
+Food_Kraft_Mac_and_Chees_Microwavable_cup = 0.5
+Food_avocado = 1.0
+Food_baked_beans = 1.5
+Food_brocoli_slaw = 1.0
+Food_cheese_bowl = 2.0
+Food_eggs_benedict = 0.5
+Food_m&m_cookie = 1.0
+Food_onion = 1.0
+Food_vegetable_cream_cheese = 1.0
+***
+energy 1733.75
+protein 51.08
+sugar 37.32
+---
+Day_ 1
+Food_Garden_Pizza = 2.0
+Food_Kraft_Mac_and_Chees_Microwavable_cup = 1.5
+Food_Milton's_Original_Multi_Grain_Crackers = 2.0
+Food_Scooby_Doo_gummies = 0.5
+Food_cranberry_juice = 1.0
+Food_onion = 2.0
+Food_skim_milk = 1.0
+Food_sopaipillas = 3.0
+***
+energy 1003.00
+protein 32.05
+sugar 26.93
+---
+Day_ 8
+Food_Garden_Pizza = 2.0
+Food_Kraft_Mac_and_Chees_Microwavable_cup = 1.5
+Food_Maple_Crème_Bruele = 0.5
+Food_Milton's_Original_Multi_Grain_Crackers = 2.0
+Food_Scooby_Doo_gummies = 0.5
+Food_avocado = 1.5
+Food_beef_angus_burger_patty = 0.5
+Food_cranberry_juice = 1.0
+Food_eggs_benedict = 0.5
+Food_onion = 2.0
+Food_skim_milk = 1.0
+Food_sopaipillas = 3.0
+***
+energy 1989.25
+protein 58.55
+sugar 44.34
+---
+Day_ 1
+Food_avocado = 3.0
+Food_baked_cheddar_ruffles = 3.0
+Food_cheddar_Chex_Mix = 0.5
+Food_cookie_dough_truffle = 2.0
+Food_green_onion = 1.5
+Food_guacamole_bowl = 2.0
+Food_hashbrowns = 4.0
+Food_tortilla_chips = 1.0
+Food_white_bread_toast = 2.0
+***
+energy 1913.50
+protein 55.61
+sugar 54.42
+---
+Day_ 10
+Food_Maple_Crème_Bruele = 0.5
+Food_avocado = 3.0
+Food_baked_cheddar_ruffles = 3.0
+Food_cheddar_Chex_Mix = 0.5
+Food_cookie_dough_truffle = 2.0
+Food_eggs_benedict = 1.0
+Food_green_onion = 0.5
+Food_guacamole_bowl = 2.0
+Food_hashbrowns = 4.0
+Food_tortilla_chips = 1.0
+Food_white_bread_toast = 2.0
+***
+energy 2542.00
+protein 60.62
+sugar 59.53
+

@@ -1,0 +1,85 @@
+I'll create three meal plan options using the available items while meeting the specified targets. I'll include portion sizes and simple preparation instructions for each item.
+
+MEAL PLAN OPTION 1:
+
+Breakfast (440 kcal):
+- 1.5 servings Eggs Benedict (450g)
+Preparation: Poach eggs, prepare hollandaise sauce, toast English muffins, and assemble with Canadian bacon.
+
+Lunch (525 kcal):
+- 1 Angus beef burger patty (180g)
+- 0.5 serving lettuce (15g)
+- 0.5 serving tomato (90g)
+- 0.5 serving gouda cheese (15g)
+Preparation: Grill burger patty to desired doneness, top with cheese, lettuce, and tomato.
+
+Dinner (550 kcal):
+- 0.5 serving Tofu Pad Thai (250g)
+Preparation: Stir-fry tofu with rice noodles, bean sprouts, and pad thai sauce.
+
+Snacks (247 kcal):
+- 0.5 serving Belvita Chocolate Breakfast Sandwiches (25g)
+- 0.5 serving glazed donut (45g)
+
+Totals:
+Calories: 1762 kcal
+Protein: 67g
+Sugar: 31g
+Fat: 82g
+
+MEAL PLAN OPTION 2:
+
+Breakfast (395 kcal):
+- 0.5 serving Pillsbury Cinnamon Roll (75g)
+- 0.5 serving white bread toast (30g)
+Preparation: Bake cinnamon roll according to package instructions, toast bread until golden.
+
+Lunch (680 kcal):
+- 0.5 serving turkey (90g)
+- 0.5 serving guacamole bowl (120g)
+- 0.5 serving tortilla chips (30g)
+Preparation: Slice turkey, serve with guacamole and chips.
+
+Dinner (487 kcal):
+- 0.5 serving fajita veggies (150g)
+- 0.5 serving corn salsa (60g)
+- 1.0 serving guacamole (90g)
+Preparation: Sauté vegetables with fajita seasoning, serve with corn salsa and guacamole.
+
+Snacks (200 kcal):
+- 0.5 serving M&M cookie (30g)
+- 0.5 serving mini donut powdered sugar (35g)
+
+Totals:
+Calories: 1762 kcal
+Protein: 66g
+Sugar: 31g
+Fat: 89g
+
+MEAL PLAN OPTION 3:
+
+Breakfast (425 kcal):
+- 0.5 serving Belvita Chocolate Breakfast Sandwiches (25g)
+- 0.5 serving Pillsbury Cinnamon Roll (75g)
+Preparation: Bake cinnamon roll according to package instructions.
+
+Lunch (637 kcal):
+- 1.0 serving beef angus burger patty (180g)
+- 0.5 serving lettuce (15g)
+- 0.5 serving tomato (90g)
+Preparation: Grill burger patty, assemble with lettuce and tomato.
+
+Dinner (500 kcal):
+- 0.5 serving Tofu Pad Thai (250g)
+- 0.5 serving fajita veggies (150g)
+Preparation: Stir-fry tofu and vegetables, combine with pad thai sauce.
+
+Snacks (200 kcal):
+- 0.5 serving glazed donut (45g)
+- 0.5 serving mini donut powdered sugar (35g)
+
+Totals:
+Calories: 1762 kcal
+Protein: 67g
+Sugar: 31g
+Fat: 85g

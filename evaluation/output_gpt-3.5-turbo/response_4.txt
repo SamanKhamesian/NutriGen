@@ -1,0 +1,80 @@
+### Meal Plan Option 1:
+#### Breakfast: Avocado Toast
+- Avocado: 2.5
+- White Bread Toast: 0.5
+  - Mash the avocado and spread it over the toasted bread slices.
+
+#### Lunch: Tofu Pad Thai with Fajita Veggies
+- Tofu Pad Thai: 0.5
+- Fajita Veggies: 0.5
+  - Stir-fry tofu with vegetables and Pad Thai sauce. Serve with sautéed fajita veggies.
+
+#### Dinner: Angus Beef Burger with Corn Salsa
+- Angus Beef Burger Patty: 1.0
+- Corn Salsa: 0.5
+  - Grill or pan-fry the beef patty to desired doneness. Serve with corn salsa.
+
+#### Snack: Glazed Donut
+- Glazed Donut: 0.5
+
+#### Total:
+- Calories: 2146.5 kcal
+- Protein: 65.76g
+- Sugar: 32.16g
+
+---
+
+### Meal Plan Option 2:
+#### Breakfast: Pillsbury Cinnamon Roll
+- Pillsbury Cinnamon Roll: 0.5
+  - Bake the cinnamon roll as per package instructions.
+
+#### Lunch: Turkey Avocado Wrap with M&M Cookie
+- Turkey: 0.5
+- Avocado: 2.5
+- White Bread Toast: 0.5
+- M&M Cookie: 0.5
+  - Layer turkey and sliced avocado on white bread, then roll into a wrap. Enjoy with an M&M cookie.
+
+#### Dinner: Eggs Benedict with Gouda Cheese
+- Eggs Benedict: 1.0
+- Gouda Cheese: 0.5
+  - Prepare poached eggs, Canadian bacon, and hollandaise sauce over English muffins. Top with melted Gouda cheese.
+
+#### Snack: Mini Donut with Powdered Sugar
+- Mini Donut Powdered Sugar: 0.5
+
+#### Total:
+- Calories: 2146.5 kcal
+- Protein: 65.76g
+- Sugar: 32.16g
+
+---
+
+### Meal Plan Option 3:
+#### Breakfast: Belvita Chocolate Breakfast Sandwiches
+- Belvita Chocolate Breakfast Sandwiches: 0.5
+  - Enjoy the convenient breakfast sandwiches as they are.
+
+#### Lunch: Guacamole Bowl with Tortilla Chips
+- Guacamole Bowl: 0.5
+- Tortilla Chips: 0.5
+  - Dive into the guacamole bowl with crispy tortilla chips for a satisfying lunch.
+
+#### Dinner: Beef Angus Burger Patty with Lettuce and Tomato
+- Beef Angus Burger Patty: 1.0
+- Lettuce: 0.5
+- Tomato: 0.5
+  - Cook the beef patty, assemble with lettuce and tomato as desired.
+
+#### Snack: Gouda Cheese with Tomato Slices
+- Gouda Cheese: 0.5
+- Tomato: 0.5
+  - Enjoy slices of Gouda cheese with fresh tomato for a savory snack.
+
+#### Total:
+- Calories: 2146.5 kcal
+- Protein: 65.76g
+- Sugar: 32.16g
+
+These meal plan options should help you achieve your daily targets while providing variety and balanced nutrition. Enjoy your meals!
